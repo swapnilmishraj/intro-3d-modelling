@@ -10,55 +10,89 @@ layout: default
 
 ## Goal
 
-Understand what 3D modelling is.
-Understand what 3D printing is.
-Get ready to use Tinkercad.
+By the end of this lesson, you will:
+- Understand what 3D modelling is (creating objects on a computer)
+- Know the basics of 3D printing (making real objects from your designs)
+- Have a Tinkercad account ready to start designing
 
 ## Time
 
-10–15 minutes
+10–15 minutes (super quick!)
 
 ## What you need
 
-- A computer with a web browser
-- Internet
-- A free Tinkercad account
+- A computer with a web browser (Chrome or Firefox work great)
+- Internet connection
+- That's it! We'll create a free Tinkercad account together
 
-## Steps
+## Let's Get Started
 
-1. Know the big idea:
-   - 3D modelling means making an object on a computer.
-   - The object has width, height, and depth.
-2. Know the 3D printing idea (very short):
-   - 3D printing builds objects layer by layer.
-3. Know what an STL is (very short):
-   - STL is the file that describes the shape.
-4. Open Tinkercad:
-   - https://www.tinkercad.com
-5. Create your account (if you do not have one).
-6. Start a new design.
-7. Do the built-in beginner tutorials (start here):
-   - [3D Design Basics (Tinkercad Learn)](https://www.tinkercad.com/learn/designs/collection/3d-design-basics)
-8. Save and name your design so you can find it later.
+### Step 1: Understand the Big Picture
 
-## Common mistakes and fixes
+**What is 3D modelling?**
+- It's creating objects on a computer that have width, height, and depth (just like real things!)
+- Think of it like building with digital LEGO blocks
 
-- You can’t find your design later: Rename it at the top left.
-- You feel “lost” in 3D: Use the **Home** button on the view cube.
-- Things don’t move how you expect: Click the empty workplane, then try again.
+**What is 3D printing?**
+- A special printer that builds real objects by stacking thin layers of plastic
+- It's like printing on paper, but going UP instead of staying flat
 
-## Deliverable
+**What is an STL file?**
+- It's the file type that tells a 3D printer what to make
+- Think of it like a recipe for your 3D printer
 
-- [ ] Tinkercad account created (or already have one)
-- [ ] A saved design you can open again
+### Step 2: Create Your Tinkercad Account
 
-## Quick check (answer these)
+1. Open your web browser and go to: **https://www.tinkercad.com**
+2. Click the **Sign Up** button (usually in the top-right corner)
+3. Follow the steps to create a free account
+   - You can use your email or sign in with Google
+4. Once you're logged in, click **Create New Design**
 
-1. What does “3D” mean in 3D modelling?
-2. Say the 3D printing idea in one sentence.
-3. What is an STL file used for?
-4. What is the workplane/grid for?
-5. What is one thing you can do if you feel lost in the view?
+**Tip:** Give your design a good name right away (click on the name at the top-left). This helps you find it later!
+
+### Step 3: Complete the Built-in Tutorials
+
+Tinkercad has awesome interactive tutorials. Do these now:
+
+1. Look for **Learn** or **Tutorials** in Tinkercad
+2. Start with: [3D Design Basics](https://www.tinkercad.com/learn/designs/collection/3d-design-basics)
+3. Complete at least the first 3-4 tutorials
+   - They teach you how to move around
+   - How to add and move shapes
+   - How to make things bigger or smaller
+
+**Don't skip this!** These tutorials are quick and really helpful.
+
+## Common Problems and How to Fix Them
+
+**Problem:** I can't find my design later!
+- **Fix:** Always rename your design right away. Click on the name at the top-left and type something you'll remember.
+
+**Problem:** I feel "lost" in the 3D view and can't see my shapes properly.
+- **Fix:** Click the **Home** button on the view cube (it's in the top-right of the screen).
+
+**Problem:** Shapes won't move the way I want.
+- **Fix:** Click on the empty workplane (the grid) first, then try moving your shape again.
+
+## What to Complete
+
+Before moving to the next lesson, make sure you have:
+- [ ] A Tinkercad account (signed up and can log in)
+- [ ] Completed at least 3-4 of the built-in tutorials
+- [ ] One saved design with your name on it
+
+## Quick Knowledge Check
+
+Answer these questions to yourself (or write them down):
+
+1. What does "3D" mean? (Hint: three measurements)
+2. How does 3D printing work? (Hint: layers)
+3. What file type do 3D printers use?
+4. What is the grid called in Tinkercad? (Hint: starts with 'w')
+5. If you get lost in the view, what button helps you?
+
+**Great job completing Lesson 0!** 🎉
 
 ---
 

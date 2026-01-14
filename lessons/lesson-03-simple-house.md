@@ -10,8 +10,13 @@ layout: default
 
 ## Goal
 
-Build a simple house.
-You will make a body, a roof, a door, and windows.
+Time to build something fun — a house! 
+
+By the end of this lesson, you will:
+- Build a house body (walls)
+- Add a roof
+- Add a door and windows
+- Practice combining multiple shapes
 
 ## Time
 
@@ -19,54 +24,75 @@ You will make a body, a roof, a door, and windows.
 
 ## What you need
 
-- Tinkercad
+- Your Tinkercad account and skills from previous lessons
 
 ## Steps
 
-1. Create a new Tinkercad design.
+### Part A: Build the House Walls
 
-Make the house body
+1. Create a new design in Tinkercad
+2. Drag a **Box** onto the workplane
+3. Resize the box to make it house-sized:
+   - **Length:** 60 mm (front to back)
+   - **Width:** 40 mm (left to right)
+   - **Height:** 30 mm (floor to ceiling)
 
-2. Drag a **Box** onto the workplane.
-3. Set the size (mm). Example:
-   1. Length: 60
-   2. Width: 40
-   3. Height: 30
+**Tip:** Your house can be any size you want! These are just suggestions.
 
-Make the roof
+### Part B: Add a Roof
 
-4. Try to find a **Roof** shape in the shapes panel.
-5. If you find it, drag it onto the workplane.
-6. Resize the roof so it covers the top of the house.
-7. Move it onto the house.
+**Option 1: Using a Roof Shape (easier)**
 
-If you do not see a Roof shape, use this simple roof instead:
+4. Look in the shapes panel for a **Roof** or **Wedge** shape
+5. If you find one, drag it onto the workplane
+6. Resize it so it's a bit wider and longer than your house
+7. Lift it up and place it on top of the house walls
 
-8. Drag a **Box**.
-9. Resize it to a thin roof slab. Example: 65 × 45 × 12.
-10. Rotate it a little.
-11. Duplicate it.
-12. Flip the duplicate the other way.
-13. Place the two roof pieces so they meet in the middle.
+**Option 2: Make Your Own Roof (if there's no roof shape)**
 
-Add a door
+8. Drag another **Box** onto the workplane
+9. Make it thin and flat (Example: 65 × 45 × 3)
+10. Rotate it about 25-30 degrees (drag the rotation arrows)
+11. Right-click on the box and select **Duplicate**
+12. Rotate the copy the opposite direction
+13. Move both pieces so they meet at the top like a real roof (shaped like a triangle ^)
+14. Place the roof on top of your house
 
-14. Drag a **Box**.
-15. Resize it for a door. Example: 15 × 3 × 20.
-16. Place it on the front of the house.
+### Part C: Add a Door
 
-Add windows
+14. Drag a **Box** for the door
+15. Make it door-shaped (tall and narrow):
+    - Example size: **15 × 3 × 20** mm
+    - Width 15, Depth 3, Height 20
+16. Move it to the front of your house at the bottom
+17. Make sure it's touching the ground (lower it if needed)
 
-17. Drag a **Box** (or a **Cylinder**).
-18. Make it a small window. Example: 10 × 3 × 10.
-19. Place it on the front.
-20. Duplicate it for a second window.
-21. Use **Align** to keep windows neat.
+**Tip:** Position the door on the front wall where you'd expect a real door to be!
 
-Group it
+### Part D: Add Windows
 
-22. Select everything.
-23. Click **Group**.
+18. Drag a **Box** onto the workplane (you can also use a **Cylinder** for round windows!)
+19. Make it window-sized:
+    - Example: **10 × 3 × 10** mm
+    - Keep it fairly small and square
+20. Move it onto the front wall of your house
+21. Right-click the window and choose **Duplicate**
+22. Move the copy to another spot on the front wall
+23. Select both windows (hold Shift) and use **Align** to line them up nicely
+
+**Bonus:** Add more windows on the sides if you want!
+
+### Part E: Bring It All Together
+
+24. Hold **Shift** and click on every part of your house:
+    - Walls
+    - Roof pieces
+    - Door
+    - Windows
+25. Click **Group** at the top
+26. **You built a house!** 🏠
+
+**Tip:** If something looks wrong after grouping, click **Ungroup**, fix it, then **Group** again.
 
 ## Common mistakes and fixes
 

@@ -10,8 +10,12 @@ layout: default
 
 ## Goal
 
-Learn the basic controls in Tinkercad.
-You will add shapes, move them, align them, and group them.
+By the end of this lesson, you will be able to:
+- Navigate around in 3D space like a pro
+- Add shapes and change their size
+- Move and rotate objects exactly where you want them
+- Line up shapes neatly using Align
+- Combine shapes into one solid object using Group
 
 ## Time
 
@@ -20,40 +24,83 @@ You will add shapes, move them, align them, and group them.
 ## What you need
 
 - A computer with a web browser
-- A free Tinkercad account (recommended: do [Lesson 0 — Introduction]({{ site.baseurl }}/lessons/lesson-00-introduction/) first)
-- A mouse (helpful) or a trackpad
+- Your Tinkercad account (if you haven't done [Lesson 0]({{ site.baseurl }}/lessons/lesson-00-introduction/), do it first!)
+- A mouse is easier than a trackpad, but both work
 
-## Steps
+## Let's Learn the Controls
 
-1. Open Tinkercad and log in.
-2. Do the built-in tutorials from this collection (start here):
-   - [3D Design Basics (Tinkercad Learn)](https://www.tinkercad.com/learn/designs/collection/3d-design-basics)
-3. In that collection, complete these tutorials (you will see them in the list):
-   1. **Place It**
-   2. **View It**
-   3. **Move It**
-   4. **Rotate It**
-   5. Do the rest of the tutorials in the same collection.
-4. While you do the tutorials, make sure you can do these 5 skills:
-   1. Move the camera (rotate / pan / zoom)
-   2. Add a shape
-   3. Move, resize, and rotate a shape
-   4. Align two shapes
-   5. Group two shapes into one object
-5. Mini challenge (2 minutes):
-   1. Make a simple “tower” using a box + cylinder.
-   2. Align them.
-   3. Group them.
-6. Rename your design so you can find it later.
+### Step 1: Review the Tutorials
 
-## Common mistakes and fixes
+1. Log into Tinkercad
+2. Go to: [3D Design Basics](https://www.tinkercad.com/learn/designs/collection/3d-design-basics)
+3. Complete these essential tutorials:
+   - **Place It** — learn how to add shapes
+   - **View It** — learn how to look around
+   - **Move It** — learn how to move shapes
+   - **Rotate It** — learn how to spin shapes
+   - Try to do all the tutorials in the collection if you have time!
 
-- You “lost” your model: Click **Home** on the view cube.
-- You can’t zoom: Click the empty workplane first, then try again.
-- A shape is floating: Lower it until it touches the workplane.
-- You can’t select two shapes: Hold **Shift** while clicking.
-- Align does nothing: You must select two shapes first.
-- Group looks wrong: Click **Ungroup** and try again.
+### Step 2: Practice the 5 Essential Skills
+
+Make sure you can do all of these before moving on:
+
+**Skill 1: Move the Camera**
+- Right-click and drag to rotate the view
+- Scroll to zoom in and out
+- Middle-click and drag to pan (slide the view)
+
+**Skill 2: Add a Shape**
+- Click a shape on the right panel
+- Drag it onto the workplane (the grid)
+
+**Skill 3: Change a Shape**
+- Click a shape to select it
+- Drag the white squares to make it bigger or smaller
+- Drag the curved arrow to rotate it
+- Drag the cone on top to move it up or down
+
+**Skill 4: Align Shapes**
+- Hold **Shift** and click two shapes (they should both be highlighted)
+- Click the **Align** button at the top
+- Click the dots to line them up
+
+**Skill 5: Group Shapes**
+- Hold **Shift** and click multiple shapes
+- Click the **Group** button at the top
+- Now they're one solid object!
+
+### Step 3: Mini Challenge (Prove You've Got It!)
+
+Create a simple tower to practice:
+
+1. Create a new design or clear your workplane
+2. Add a **Box** from the shapes panel
+3. Add a **Cylinder** from the shapes panel
+4. Move the cylinder on top of the box
+5. Select both shapes (hold Shift and click each one)
+6. Use **Align** to center the cylinder on the box
+7. Click **Group** to combine them
+8. Name your design "My First Tower" or something you'll remember
+
+## Common Problems and How to Fix Them
+
+**Problem:** I can't see my model anymore! Where did it go?
+- **Fix:** Click the **Home** button on the view cube (top-right corner). This resets your camera view.
+
+**Problem:** Zooming and rotating don't work.
+- **Fix:** Click on the empty workplane (the grid) first, then try again.
+
+**Problem:** My shape is floating in the air!
+- **Fix:** Click on your shape, then drag the cone (the arrow pointing down) until the shape sits flat on the grid.
+
+**Problem:** I can't select two shapes at the same time.
+- **Fix:** Hold down the **Shift** key on your keyboard, then click each shape.
+
+**Problem:** The Align button doesn't do anything.
+- **Fix:** You need to select at least 2 shapes first (use Shift + click).
+
+**Problem:** My grouped shape looks weird or wrong.
+- **Fix:** Click **Ungroup** at the top, fix the shapes, then try **Group** again.
 
 
 ## Deliverable
