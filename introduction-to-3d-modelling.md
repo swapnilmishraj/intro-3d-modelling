@@ -1,8 +1,12 @@
+---
+layout: default
+---
+
 # Introduction to 3D Modelling and 3D Printing
 
 This page is an older single-page draft.
 For the course version, start here:
-- [Lesson 0 — Introduction](/lessons/lesson-00-introduction)
+- [Lesson 0 — Introduction]({{ site.baseurl }}/lessons/lesson-00-introduction/)
 
 ## Goal of This Exercise
 

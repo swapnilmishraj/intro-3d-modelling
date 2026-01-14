@@ -24,12 +24,12 @@ We use Tinkercad in a web browser.
 
 ## Lessons
 
-0. [Lesson 0 — Introduction](/lessons/lesson-00-introduction)
-1. [Lesson 1 — Tinkercad Basics](/lessons/lesson-01-tinkercad-basics)
-2. [Lesson 2 — Nameplate / Keychain](/lessons/lesson-02-nameplate-keychain)
-3. [Lesson 3 — Simple House](/lessons/lesson-03-simple-house)
-4. [Lesson 4 — Holes and Cutouts](/lessons/lesson-04-holes-and-cutouts)
-5. [Lesson 5 — Export and Print Checks](/lessons/lesson-05-export-stl-and-checks)
+0. [Lesson 0 — Introduction]({{ site.baseurl }}/lessons/lesson-00-introduction/)
+1. [Lesson 1 — Tinkercad Basics]({{ site.baseurl }}/lessons/lesson-01-tinkercad-basics/)
+2. [Lesson 2 — Nameplate / Keychain]({{ site.baseurl }}/lessons/lesson-02-nameplate-keychain/)
+3. [Lesson 3 — Simple House]({{ site.baseurl }}/lessons/lesson-03-simple-house/)
+4. [Lesson 4 — Holes and Cutouts]({{ site.baseurl }}/lessons/lesson-04-holes-and-cutouts/)
+5. [Lesson 5 — Export and Print Checks]({{ site.baseurl }}/lessons/lesson-05-export-stl-and-checks/)
 
 ## Note
 

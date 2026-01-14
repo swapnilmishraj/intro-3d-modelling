@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← Home]({{ site.baseurl }}/) | [Next: Lesson 1 →]({{ site.baseurl }}/lessons/lesson-01-tinkercad-basics/)
+
+---
+
 # Lesson 0 — Introduction to 3D Modelling and 3D Printing
 
 ## Goal
@@ -55,3 +59,7 @@ Get ready to use Tinkercad.
 3. What is an STL file used for?
 4. What is the workplane/grid for?
 5. What is one thing you can do if you feel lost in the view?
+
+---
+
+[← Home]({{ site.baseurl }}/) | [Next: Lesson 1 →]({{ site.baseurl }}/lessons/lesson-01-tinkercad-basics/)

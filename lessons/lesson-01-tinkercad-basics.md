@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 0]({{ site.baseurl }}/lessons/lesson-00-introduction/) | [Next: Lesson 2 →]({{ site.baseurl }}/lessons/lesson-02-nameplate-keychain/)
+
+---
+
 # Lesson 1 — Tinkercad Basics
 
 ## Goal
@@ -16,7 +20,7 @@ You will add shapes, move them, align them, and group them.
 ## What you need
 
 - A computer with a web browser
-- A free Tinkercad account (recommended: do [Lesson 0 — Introduction](/lessons/lesson-00-introduction) first)
+- A free Tinkercad account (recommended: do [Lesson 0 — Introduction]({{ site.baseurl }}/lessons/lesson-00-introduction/) first)
 - A mouse (helpful) or a trackpad
 
 ## Steps
@@ -68,3 +72,7 @@ You will add shapes, move them, align them, and group them.
 8. After you **Group** two shapes, what happens?
 9. What key helps you select two shapes at the same time?
 10. Mini challenge check: did you make a box + cylinder tower and group it into one object? (Yes/No)
+
+---
+
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 0]({{ site.baseurl }}/lessons/lesson-00-introduction/) | [Next: Lesson 2 →]({{ site.baseurl }}/lessons/lesson-02-nameplate-keychain/)

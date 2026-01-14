@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 1]({{ site.baseurl }}/lessons/lesson-01-tinkercad-basics/) | [Next: Lesson 3 →]({{ site.baseurl }}/lessons/lesson-03-simple-house/)
+
+---
+
 # Lesson 2 — Nameplate / Keychain
 
 ## Goal
@@ -65,3 +69,7 @@ Optional: add a keychain hole
 
 - [ ] Exported STL
 - [ ] Screenshot of your model
+
+---
+
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 1]({{ site.baseurl }}/lessons/lesson-01-tinkercad-basics/) | [Next: Lesson 3 →]({{ site.baseurl }}/lessons/lesson-03-simple-house/)

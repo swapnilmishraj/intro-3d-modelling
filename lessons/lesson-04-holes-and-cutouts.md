@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 3]({{ site.baseurl }}/lessons/lesson-03-simple-house/) | [Next: Lesson 5 →]({{ site.baseurl }}/lessons/lesson-05-export-stl-and-checks/)
+
+---
+
 # Lesson 4 — Holes and Cutouts
 
 ## Goal
@@ -62,3 +66,7 @@ Part B: Make a simple stamp (cut-out letters)
 ## Deliverable
 
 - [ ] Exported STL (keychain or stamp)
+
+---
+
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 3]({{ site.baseurl }}/lessons/lesson-03-simple-house/) | [Next: Lesson 5 →]({{ site.baseurl }}/lessons/lesson-05-export-stl-and-checks/)

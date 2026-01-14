@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 2]({{ site.baseurl }}/lessons/lesson-02-nameplate-keychain/) | [Next: Lesson 4 →]({{ site.baseurl }}/lessons/lesson-04-holes-and-cutouts/)
+
+---
+
 # Lesson 3 — Simple House
 
 ## Goal
@@ -78,3 +82,7 @@ Group it
 ## Deliverable
 
 - [ ] Exported STL of your house
+
+---
+
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 2]({{ site.baseurl }}/lessons/lesson-02-nameplate-keychain/) | [Next: Lesson 4 →]({{ site.baseurl }}/lessons/lesson-04-holes-and-cutouts/)

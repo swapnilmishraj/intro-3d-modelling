@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 4]({{ site.baseurl }}/lessons/lesson-04-holes-and-cutouts/)
+
+---
+
 # Lesson 5 — Export and Print Checks
 
 ## Goal
@@ -61,3 +65,7 @@ Two short facts
 
 - [ ] Final STL file
 - [ ] A short note: what your model is (1 sentence)
+
+---
+
+[← Home]({{ site.baseurl }}/) | [← Prev: Lesson 4]({{ site.baseurl }}/lessons/lesson-04-holes-and-cutouts/)

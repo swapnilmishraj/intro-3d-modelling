@@ -2,3 +2,8 @@ title: Intro to 3D Modelling
 description: Beginner-friendly micro-course using Tinkercad
 theme: jekyll-theme-cayman
 markdown: kramdown
+
+# For a project site (https://<user>.github.io/<repo>/)
+baseurl: "/intro-3d-modelling"
+permalink: pretty
+
